@@ -7,11 +7,12 @@ I was responsible for the core machine construction and the complete 3D modeling
 
 ## 📐 3D Model Designs
 Here are the structural designs for the automated dispenser:
+<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/9753eab1-c8a4-44d3-b486-6ecd5a030701" />
+<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/c3e35cbb-b152-4a48-a2db-a431a921127d" />
+<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/ede5cdfb-9e18-4c6c-b95b-c92f8e409edd" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/683b2ff0-909c-4783-b0e7-09734fa5d02b" />
 
-![Feeder Design View 1](image_e7f8ce.png)
-![Feeder Design View 2](image_e7f856.png)
-![Feeder Component View 1](image_e7f5ac.png)
-![Feeder Component View 2](image_e7f58c.png)
+
 
 ## ⚙️ Hardware Components
 The smart feeder is engineered with carefully selected components to ensure reliability and cost-effectiveness[cite: 1]:
