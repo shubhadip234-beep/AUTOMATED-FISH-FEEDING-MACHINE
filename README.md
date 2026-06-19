@@ -10,7 +10,7 @@ Here are the structural designs for the automated dispenser:
 <img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/9753eab1-c8a4-44d3-b486-6ecd5a030701" />
 <img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/c3e35cbb-b152-4a48-a2db-a431a921127d" />
 <img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/ede5cdfb-9e18-4c6c-b95b-c92f8e409edd" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/683b2ff0-909c-4783-b0e7-09734fa5d02b" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/683b2ff0-909c-4783-b0e7-09734fa5d02b" />  ------the assembly and the code was made and researched by our leader.
 
 
 
